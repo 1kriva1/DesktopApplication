@@ -1,0 +1,8 @@
+D:\36\Project_C#\TextProcessor\TextProcessor\bin\Debug\TextProcessor.exe
+D:\36\Project_C#\TextProcessor\TextProcessor\bin\Debug\TextProcessor.pdb
+D:\36\Project_C#\TextProcessor\TextProcessor\obj\x86\Debug\TextProcessor.FormTextProcessor.resources
+D:\36\Project_C#\TextProcessor\TextProcessor\obj\x86\Debug\TextProcessor.Properties.Resources.resources
+D:\36\Project_C#\TextProcessor\TextProcessor\obj\x86\Debug\TextProcessor.exe
+D:\36\Project_C#\TextProcessor\TextProcessor\obj\x86\Debug\TextProcessor.pdb
+D:\36\Project_C#\TextProcessor\TextProcessor\obj\x86\Debug\TextProcessor.csprojResolveAssemblyReference.cache
+D:\36\Project_C#\TextProcessor\TextProcessor\obj\x86\Debug\TextProcessor.csproj.GenerateResource.Cache

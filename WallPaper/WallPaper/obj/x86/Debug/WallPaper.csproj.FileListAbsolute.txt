@@ -1,0 +1,9 @@
+D:\36\Project_C#\WallPaper\WallPaper\bin\Debug\WallPaper.exe
+D:\36\Project_C#\WallPaper\WallPaper\bin\Debug\WallPaper.pdb
+D:\36\Project_C#\WallPaper\WallPaper\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\36\Project_C#\WallPaper\WallPaper\obj\x86\Debug\WallPaper.Form1.resources
+D:\36\Project_C#\WallPaper\WallPaper\obj\x86\Debug\WallPaper.Properties.Resources.resources
+D:\36\Project_C#\WallPaper\WallPaper\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\36\Project_C#\WallPaper\WallPaper\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\36\Project_C#\WallPaper\WallPaper\obj\x86\Debug\WallPaper.exe
+D:\36\Project_C#\WallPaper\WallPaper\obj\x86\Debug\WallPaper.pdb

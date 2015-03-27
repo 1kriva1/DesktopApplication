@@ -1,0 +1,8 @@
+D:\36\Project_C#\TablePrint\TablePrint\bin\Debug\TablePrint.exe
+D:\36\Project_C#\TablePrint\TablePrint\bin\Debug\TablePrint.pdb
+D:\36\Project_C#\TablePrint\TablePrint\obj\x86\Debug\TablePrint.Form1.resources
+D:\36\Project_C#\TablePrint\TablePrint\obj\x86\Debug\TablePrint.Properties.Resources.resources
+D:\36\Project_C#\TablePrint\TablePrint\obj\x86\Debug\TablePrint.exe
+D:\36\Project_C#\TablePrint\TablePrint\obj\x86\Debug\TablePrint.pdb
+D:\36\Project_C#\TablePrint\TablePrint\obj\x86\Debug\TablePrint.csprojResolveAssemblyReference.cache
+D:\36\Project_C#\TablePrint\TablePrint\obj\x86\Debug\TablePrint.csproj.GenerateResource.Cache

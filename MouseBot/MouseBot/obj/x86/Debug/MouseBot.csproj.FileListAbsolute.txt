@@ -1,0 +1,9 @@
+D:\36\Project_C#\MouseBot\MouseBot\bin\Debug\MouseBot.exe
+D:\36\Project_C#\MouseBot\MouseBot\bin\Debug\MouseBot.pdb
+D:\36\Project_C#\MouseBot\MouseBot\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\36\Project_C#\MouseBot\MouseBot\obj\x86\Debug\MouseBot.Form1.resources
+D:\36\Project_C#\MouseBot\MouseBot\obj\x86\Debug\MouseBot.Properties.Resources.resources
+D:\36\Project_C#\MouseBot\MouseBot\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\36\Project_C#\MouseBot\MouseBot\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\36\Project_C#\MouseBot\MouseBot\obj\x86\Debug\MouseBot.exe
+D:\36\Project_C#\MouseBot\MouseBot\obj\x86\Debug\MouseBot.pdb
